@@ -1,1 +1,2 @@
-hello
+komenda
+komenda 2
